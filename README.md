@@ -20,8 +20,7 @@ A linktree model created during a Rocketseat course
 <br>
 
 <p align="center">
-  <img alt="Linktree project" src=".github/preview.jpg" width="100%">
-  <img alt="Linktree project" src=".github/preview-light-mode.jpg" width="100%">
+  
 </p>
 
 ## 🚀 Tecnologias
