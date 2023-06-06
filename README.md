@@ -33,11 +33,11 @@ This project was developed with the following technologies:
 - Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 Linktree_dev is a link aggregator to use as a business card.
 
-## :memo: Licença
+## :memo: License
 
 This project is under MIT license.
 
