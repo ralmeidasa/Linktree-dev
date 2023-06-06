@@ -20,8 +20,8 @@ A linktree model created during a Rocketseat course
 <br>
 
 <p align="center">
-  <img alt="Linktree project" src=".github/preview.jpg" width="50%">
-  <img alt="Linktree project" src=".github/preview-light-mode.jpg" width="50%">
+  <img alt="Linktree project" src=".github/preview.jpg" width="100%">
+  <img alt="Linktree project" src=".github/preview-light-mode.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,11 +33,11 @@ This project was developed with the following technologies:
 - Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
 Linktree_dev is a link aggregator to use as a business card.
 
-## :memo: Licença
+## :memo: License
 
 This project is under MIT license.
 
