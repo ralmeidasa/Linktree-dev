@@ -24,7 +24,7 @@ A linktree model created during a Rocketseat course
   <img alt="Linktree project" src=".github/preview-light-mode.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
