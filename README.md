@@ -1,6 +1,6 @@
-# Linktree_dev
+# Linktree-dev
 
-<h1 align="center"> Linktree_dev </h1>
+<h1 align="center"> Linktree-dev </h1>
 
 <p align="center">
 A linktree model created during a Rocketseat course
@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Linktree_dev is a link aggregator to use as a business card.
+Linktree-dev is a link aggregator to use as a business card.
 
 ## :memo: License
 
